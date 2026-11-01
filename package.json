@@ -1,0 +1,1 @@
+{"name":"the-data-stand","version":"1.0.0","private":true,"type":"module","description":"A folder-style collection of Streamlit analysis dashboards","scripts":{"test":"node --test tests/*.test.js"}}
